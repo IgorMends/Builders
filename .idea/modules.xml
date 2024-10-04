@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Builders.iml" filepath="$PROJECT_DIR$/.idea/Builders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PizzaBuilder/PizzaBuilder.iml" filepath="$PROJECT_DIR$/PizzaBuilder/PizzaBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelatorioBuilder/RelatorioBuilder.iml" filepath="$PROJECT_DIR$/RelatorioBuilder/RelatorioBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VeiculoBuilder/VeiculoBuilder.iml" filepath="$PROJECT_DIR$/VeiculoBuilder/VeiculoBuilder.iml" />
+    </modules>
+  </component>
+</project>
